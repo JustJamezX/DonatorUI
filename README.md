@@ -6,6 +6,13 @@ A Form That Uses Donator Commands or Perks
 - [x] Clean Code for 3.0.0
 - [x] A Form for your Donators in your Server
 
+This fork removes: 
+- Gamemode
+- Vanish
+- Size
+
+Edited by JamesCool5757, 
+
 © LentoKun Productions.
 
 Subscribe: [Click Here!](https://youtube.com/c/LentoKun)
